@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/harrison/.scripts/dunst'
+let g:netrw_dirhist_4='/home/harrison/.ncmpcpp'
+let g:netrw_dirhist_3='/home/harrison/.scripts/dmenu'
+let g:netrw_dirhist_2='/home/harrison/suckless/dmenu'
+let g:netrw_dirhist_1='/home/harrison/suckless/slstatus'
+let g:netrw_dirhist_0='/home/harrison/suckless/slstatus/components'
+let g:netrw_dirhist_9='/home/harrison/suckless/slstatus'
+let g:netrw_dirhist_8='/home/harrison/suckless/slstatus/components'
+let g:netrw_dirhist_7='/home/harrison/.ncmpcpp'
+let g:netrw_dirhist_6='/home/harrison/.config'
